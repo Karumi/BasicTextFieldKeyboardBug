@@ -4,12 +4,12 @@ While testing the app with Jetpack Compose we've noticed the component named ``B
 
 ## Working with Google keyboard
 
-![Working with Google keyboard](screencast/workingWithGoogleKeyboard.mp4)
+![Working with Google keyboard](screencast/workingWithGoogleKeyboard.gif)
 
 ## Not working with Swiftkey keyboard
 
-![Not working with Swiftkey keyboard](screencast/keyboardNotWorkingSwiftkey.mp4)
+![Not working with Swiftkey keyboard](screencast/keyboardNotWorkingSwiftkey.gif)
 
 ## Not working with emoji keyboard
 
-![Not working with emoji keyboard](screencast/otherKeyboard.mp4)
+![Not working with emoji keyboard](screencast/otherKeyboard.gif)
